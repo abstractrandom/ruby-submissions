@@ -9,7 +9,7 @@
 * Austin Wood:
 * Charles Valentino Espinoza:
 * DJ Greenfield:
-* David E Maurer:
+* David E Maurer:https://github.com/abstractrandom/challenges/tree/master/chisel
 * Edward McCarthy:
 * Fred Block:
 * Jack Yeh:
